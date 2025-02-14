@@ -9,7 +9,9 @@ function Home() {
             <AppNavbar />
             <section className="pt-32 pb-20 px-4">
                 <div className="max-w-4xl mx-auto text-center">
-                    <h1 className="text-4xl md:text-6xl lg:text-8xl font-bold text-primary bg-clip-text text-transparent bg-gradient-to-r from-primary to-primary-faded via-primary/95 pb-4 leading-tight">Master your studying with AI</h1>
+                    <h1 className="text-4xl md:text-6xl lg:text-8xl font-bold animate-shimmer bg-clip-text text-transparent bg-[linear-gradient(110deg,rgb(255,231,113)_45%,#ffffff_50%,rgb(255,231,113)_55%)] bg-[length:250%_100%] pb-4">
+                        Master your studying with AI
+                    </h1>
                     <p className="mt-4 text-lg text-gray-500">Transform your study materials into interactive quizzes. Learn smarter, not harder with Flash.AI's intelligent learning platform.</p>
 
                     <div className="mt-8 flex justify-center">
